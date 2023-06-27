@@ -1,0 +1,44 @@
+{
+    "mintAddress": "A8r1jjKL5LG4twBXXE6k5Q7bEQzFkRikGB6vA56yXsmF",
+    "owner": "EzRV2ueFHoJuCKwjqNTzFQkmk3uipRMfAFkec5vDfCKZ",
+    "supply": 1,
+    "collection": "MUN-PASS",
+    "name": "Mad Lads #5743",
+    "updateAuthority": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+    "primarySaleHappened": true,
+    "sellerFeeBasisPoints": 420,
+    "image": "https://gateway.pinata.cloud/ipfs/QmVXcoTwhhLSME8LF3TXtkTyd2ezQDzDq9suRWy1ZUN431/Royal%20Crown.gif",
+    "externalUrl": "https://madlads.com",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": "3"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "id": "portrait",
+                "uri": "https://madlads.s3.us-west-2.amazonaws.com/images/5743.png",
+                "type": "image/png"
+            },
+            {
+                "id": "rug",
+                "uri": "https://arweave.net/qJ5B6fx5hEt4P7XbicbJQRyTcbyLaV-OQNA1KjzdqOQ/5743.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100,
+                "address": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW"
+            }
+        ],
+        "collection": {
+            "name": "Mad Lads",
+            "family": "MAD"
+        }
+    },
+    "tokenStandard": 5
+}

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a39b2fa7.css",
+    "main.js": "/static/js/main.2a12c7a4.js",
+    "static/js/252.20f65abb.chunk.js": "/static/js/252.20f65abb.chunk.js",
+    "static/js/59.fea1f26e.chunk.js": "/static/js/59.fea1f26e.chunk.js",
+    "static/js/797.125bb666.chunk.js": "/static/js/797.125bb666.chunk.js",
+    "static/js/1.a89740cb.chunk.js": "/static/js/1.a89740cb.chunk.js",
+    "static/js/608.e63b363b.chunk.js": "/static/js/608.e63b363b.chunk.js",
+    "static/js/787.8c2f247f.chunk.js": "/static/js/787.8c2f247f.chunk.js",
+    "static/js/447.dab1accb.chunk.js": "/static/js/447.dab1accb.chunk.js",
+    "static/js/320.c53fb1b1.chunk.js": "/static/js/320.c53fb1b1.chunk.js",
+    "static/js/492.6388dbc2.chunk.js": "/static/js/492.6388dbc2.chunk.js",
+    "static/media/BlackDiamond.gif": "/static/media/BlackDiamond.53c87f0fe0f651731668.gif",
+    "static/media/Teaser.mp4": "/static/media/Teaser.cb361ff865a0e763886d.mp4",
+    "static/media/GoodTime.otf": "/static/media/GoodTime.a86d4f7f5cdb8cf2e409.otf",
+    "index.html": "/index.html",
+    "main.a39b2fa7.css.map": "/static/css/main.a39b2fa7.css.map",
+    "main.2a12c7a4.js.map": "/static/js/main.2a12c7a4.js.map",
+    "59.fea1f26e.chunk.js.map": "/static/js/59.fea1f26e.chunk.js.map",
+    "1.a89740cb.chunk.js.map": "/static/js/1.a89740cb.chunk.js.map",
+    "608.e63b363b.chunk.js.map": "/static/js/608.e63b363b.chunk.js.map",
+    "787.8c2f247f.chunk.js.map": "/static/js/787.8c2f247f.chunk.js.map",
+    "447.dab1accb.chunk.js.map": "/static/js/447.dab1accb.chunk.js.map",
+    "320.c53fb1b1.chunk.js.map": "/static/js/320.c53fb1b1.chunk.js.map",
+    "492.6388dbc2.chunk.js.map": "/static/js/492.6388dbc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39b2fa7.css",
+    "static/js/main.2a12c7a4.js"
+  ]
+}

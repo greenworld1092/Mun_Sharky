@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'GoodTime';
+    src: url('../public/font/GoodTime.otf') format('opentype');
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+  }
+
+* {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+::-webkit-scrollbar {
+    height: 8px;
+    width : 3px;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: gray;
+}
+
+.h-scroll::-webkit-scrollbar {
+    height: 8px;              /* height of horizontal scrollbar ← You're missing this */
+    width: 3px;               /* width of vertical scrollbar */
+    border-radius: 4px;
+}
+
+.h-scroll::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: gray;
+}

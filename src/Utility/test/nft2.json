@@ -1,0 +1,93 @@
+{
+    "mintAddress": "hZejyzbXKiVSjewbuqCJ9QDE82PR1dvJhQ1LffCzEpq",
+    "owner": "F4WYAu1fY9Pz2b3wPpyxcpdCdWPN5UMgXqtTiG9FF6tK",
+    "supply": 1,
+    "collection": "chadswtf",
+    "name": "Chad #4146",
+    "updateAuthority": "CHiPP8uwWjUg6Nk8arSHmBYtXTAqeDmhV99apgfNDBBY",
+    "primarySaleHappened": true,
+    "sellerFeeBasisPoints": 500,
+    "image": "https://shdw-drive.genesysgo.net/8dcw3uKKZK2TipoDrFDRTjk342LABzJaXPU58zKmxFsS/4146.jpg",
+    "attributes": [
+        {
+            "trait_type": "1/1",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Final Frontier"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Stout"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Oak"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "Double Cross"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Paging Dr Scrubs"
+        },
+        {
+            "trait_type": "Accessories (face)",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Accessories (body)",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Accessories (mouth)",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Blonde 'Stache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Man Bun"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Lit Bookworm"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Headwear (secondary)",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Headwear (tertiary)",
+            "value": "Natty"
+        },
+        {
+            "trait_type": "Energy",
+            "value": "Natty"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://shdw-drive.genesysgo.net/8dcw3uKKZK2TipoDrFDRTjk342LABzJaXPU58zKmxFsS/4146.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "u3kMFzby1ouHbnhedWRXBedSZsBSAaU76NihBWdS492",
+                "share": 100
+            }
+        ]
+    },
+    "tokenStandard": 5
+}

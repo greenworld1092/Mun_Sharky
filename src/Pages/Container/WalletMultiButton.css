@@ -1,0 +1,48 @@
+.wallet-adapter-dropdown {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.wallet-adapter-button{
+    height : 40px;
+}
+
+@media only screen and (max-width: 1535px) {
+    .wallet-adapter-button {
+        height : 30px;
+    }
+}
+
+.wallet-adapter-button-trigger {
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 1px solid #5C6AE1 !important;
+    border-radius: 40px !important;
+    padding: 13px 20px !important;
+    cursor: pointer !important;
+    background-color: transparent !important;
+    height : 40px !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 14px !important;
+
+    /* identical to box height, or 78% */
+}
+
+@media only screen and (max-width: 1535px) {
+    .wallet-adapter-button-trigger {
+        font-size: 14px !important;
+        padding: 5px 15px !important;
+        line-height: 10px !important;
+        height : 30px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .wallet-adapter-button-trigger {
+        font-size: 14px !important;
+        padding: 5px 10px !important;
+        line-height: 10px !important;
+        height : 35px !important;
+    }
+}

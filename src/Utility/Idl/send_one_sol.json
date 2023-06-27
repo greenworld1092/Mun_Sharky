@@ -1,0 +1,47 @@
+{
+    "version": "0.1.0",
+    "name": "anchor_escrow",
+    "instructions": [
+      {
+        "name": "sendOneSol",
+        "accounts": [
+          {
+            "name": "systemProgram",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "from",
+            "isMut": true,
+            "isSigner": true
+          },
+          {
+            "name": "to",
+            "isMut": true,
+            "isSigner": false
+          }
+        ],
+        "args": [
+          {
+            "name": "msg",
+            "type": "string"
+          }
+        ]
+      }
+    ],
+    "errors": [
+      {
+        "code": 6000,
+        "name": "MintFailed",
+        "msg": "Mint failed!"
+      },
+      {
+        "code": 6001,
+        "name": "MetadataCreateFailed",
+        "msg": "Metadata account create failed!"
+      }
+    ],
+    "metadata": {
+      "address": "9UqhCRhbAFtSd1MJhPWTHywQNQqik79qLKrJjesMKyYz"
+    }
+  }
